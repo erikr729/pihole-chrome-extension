@@ -1,13 +1,13 @@
 {
 	"manifest_description": {
-		"message": "Browser Erweiterung um dein PiHole einfach zu steuern."
+		"message": "Mit dieser Browser Erweitung kannst Du deinen PiHole ein- und ausschalten, sowie Weseiten durch einen einfachen Klick auf die White- bzw. Blacklist setzen."
 	},
 	"options_title": {
 		"message": "PiHole Remote Optionen",
 		"description": "Translation for the title tag in the options.html"
 	},
 	"options_headline_info": {
-		"message": "Gebe die Adresse und den API Key ein, welchen du unter API/Web interface in deinen PiHole Einstellungen findest."
+		"message": "Gebe die Adresse und den API Key ein, den Du unter 'API/Web interface' in deinen PiHole Einstellungen findest."
 	},
 	"options_default_time_label": {
 		"message": "Standard-Deaktivierungszeit:"
@@ -16,10 +16,10 @@
 		"message": "Sekunden"
 	},
 	"options_reload_after_disable": {
-		"message": "Aktuellen Tab nach Deaktivierung neu laden"
+		"message": "Aktuellen Tab nach dem Blackilisten neu laden"
 	},
 	"options_reload_after_white_list": {
-		"message": "Aktuellen Tab nach Whitelisting neu laden"
+		"message": "Aktuellen Tab nach dem Whitelisten neu laden"
 	},
 	"options_save_button": {
 		"message": "Speichern"
@@ -40,7 +40,7 @@
 		"message": "Entfernen"
 	},
 	"options_api_key_invalid_warning": {
-		"message": "Api Key stimmt nicht mit dem Schema überein (64 Zeichen lang). Er könnte ungültig sein!"
+		"message": "Der Api Key stimmt nicht mit dem Schema überein (64 Zeichen). Er könnte ungültig sein!"
 	},
 	"popup_title": {
 		"message": "PiHole Remote Popup"
